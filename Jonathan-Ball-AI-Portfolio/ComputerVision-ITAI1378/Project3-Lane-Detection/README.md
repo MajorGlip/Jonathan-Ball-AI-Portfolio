@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Autonomous vehicles and driver assistance systems depend on the ability to accurately detect lane markings on roads. Without reliable lane detection, vehicles cannot maintain position or make safe steering decisions. This project investigates how classical computer vision techniques — without any deep learning — can be used to detect lane lines from dashcam-style road footage.
+Autonomous vehicles and driver assistance systems depend on the ability to accurately detect lane markings on roads. Without reliable lane detection, vehicles cannot maintain position or make safe steering decisions. This project investigates how classical computer vision techniques can be used to detect lane lines from dashcam-style road footage.
 
 ## Approach
 
