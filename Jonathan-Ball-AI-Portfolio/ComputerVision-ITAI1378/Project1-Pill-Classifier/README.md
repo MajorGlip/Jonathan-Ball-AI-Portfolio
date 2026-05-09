@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Medication errors are one of the most common and preventable causes of patient harm in healthcare settings. Misidentification of pills — especially among visually similar tablets and capsules — poses a real risk to patient safety. As a former pharmacy technician, I experienced firsthand how critical accurate pill identification is.
+Medication errors are one of the most common and preventable causes of patient harm in healthcare settings. Misidentification of pills — especially among visually similar tablets and capsules — poses a real risk to patient safety. As a pharmacy technician, I experienced firsthand how critical accurate pill identification is.
 
 This project explores whether a Convolutional Neural Network (CNN) can be trained to reliably classify different pill types based on their visual appearance, with the goal of reducing the potential for medication errors.
 
