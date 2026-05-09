@@ -27,8 +27,6 @@ An in-depth exploration of image processing, feature detection, and object recog
 
 Before entering the AI field, I spent years working as a pharmacy technician. When I discovered how Computer Vision and AI could be applied to healthcare, from pill identification to medical imaging — I felt like this would be a further advancement in my carrer.
 
-This portfolio is the first chapter of that transition.
-
 ## Contact
 
 - **Email:** ball.jonathan1112@gmail.com
