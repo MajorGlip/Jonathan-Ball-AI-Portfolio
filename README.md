@@ -2,8 +2,7 @@
 
 ## About Me
 
-I am an Applied AI student at Houston Community College, specializing in Computer Vision and image-based machine learning. This portfolio documents my transition from a career as a pharmacy technician into the field of Artificial Intelligence and technology — a journey driven by my passion for applying intelligent systems to real-world problems, including those in healthcare and beyond.
-
+I am an Applied AI student at Houston Community College, specializing in Computer Vision and image-based machine learning. This portfolio documents my transition from a career as a pharmacy technician into the field of Artificial Intelligence and technology
 ## Technical Skills
 
 - **Languages:** Python
@@ -26,7 +25,7 @@ An in-depth exploration of image processing, feature detection, and object recog
 
 ## My Story
 
-Before entering the AI field, I spent years working as a pharmacy technician — a role that gave me a deep appreciation for precision, attention to detail, and the life-or-death importance of accuracy. When I discovered how Computer Vision and AI could be applied to healthcare — from pill identification to medical imaging — I knew this was the direction I wanted to take my career.
+Before entering the AI field, I spent years working as a pharmacy technician. When I discovered how Computer Vision and AI could be applied to healthcare, from pill identification to medical imaging — I felt like this would be a further advancement in my carrer.
 
 This portfolio is the first chapter of that transition.
 
