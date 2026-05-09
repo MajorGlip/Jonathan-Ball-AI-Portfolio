@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Object detection is one of the most impactful applications of Computer Vision, powering everything from self-driving cars to security systems. This project asks: can we build a system capable of detecting and labeling multiple objects in real time from an image or video stream, using a state-of-the-art detection model?
+Object detection is one of the most impactful applications of Computer Vision, powering everything from self-driving cars to security systems.
 
 ## Approach
 
