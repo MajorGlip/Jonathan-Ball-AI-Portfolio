@@ -24,5 +24,3 @@ A real-time object detection pipeline built with YOLOv5 and OpenCV, capable of i
 A lane detection system using classical computer vision techniques including Canny edge detection and the Hough Line Transform, applied to dashcam-style road footage to identify and highlight lane markings.
 
 ---
-
-*Part of the Jonathan Ball Applied AI Portfolio — Houston Community College*
